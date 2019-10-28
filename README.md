@@ -34,7 +34,7 @@ Look through the Tasks described above and select the qualitative variable and q
 Step Three - Create Your Presentation
 Once you have finished analyzing the data, create a presentation that shares the visual and summary paragraph. The summary paragraph should clearly communicate your findings based on your analysis, and provide visual or numeric values associated with your summary.
 
-SUBMISSION TEMPLATE
+
 
 The submission template is a Google Slides file. Make a copy of the submission template to complete your project. We suggest you use the layout provided, though it is not a requirement.
 
